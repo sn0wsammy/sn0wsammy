@@ -1,3 +1,9 @@
+
+<img width="1920" height="480" alt="banner" src="https://github.com/user-attachments/assets/347f3206-3185-46a3-9d44-4b19c9c61ef2" />
+
+
+
+
 👩‍💻 About Me :
 
 👋 Hi, I’m $ammy.
